@@ -1,3 +1,5 @@
+<img width="568" height="588" alt="image" src="https://github.com/user-attachments/assets/e5523fbf-1c81-45e1-9206-7b8cd21e2337" />
+
 # API Automation Testing for Student Details Project
 
 ![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?logo=postman&logoColor=white)
